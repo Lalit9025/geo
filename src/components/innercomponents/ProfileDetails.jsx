@@ -1,5 +1,5 @@
 import React from 'react'
-import down from './download.png'
+import down from './download.png';
 import './ProfileDetails.css'
 import './top.css'
 const ProfileDetails = () => {

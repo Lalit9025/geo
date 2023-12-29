@@ -1,5 +1,4 @@
 import React from 'react'
-import lalit from './lalit.jpg'
 import './ProfileDash.css'
 import ProfileDetails from './innercomponents/ProfileDetails'
 import AccountDetails from './innercomponents/AccountDetails'

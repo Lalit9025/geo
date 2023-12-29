@@ -4,7 +4,7 @@ const NewGraph = () => {
  const [title, setTitle] = useState('');
  const [description, setDescription] = useState('');
 
- const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
+ const handleSubmit = async (e) => {
    e.preventDefault();
  }
 
