@@ -1,0 +1,10 @@
+.savedgh_element{
+    display:flex;
+    flex-direction: column;
+    padding: 10px;
+    border: 1px solid black;
+    margin: 10px;
+}
+.sGraph_heading{
+    font-size: 20px;
+}

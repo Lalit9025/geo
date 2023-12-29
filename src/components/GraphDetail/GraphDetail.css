@@ -1,0 +1,73 @@
+.graph_detail_page{
+    display: flex;
+    flex-direction: column;
+    padding: 0px 5rem;
+    background-color: rgb(220, 220, 234);
+}
+.grd_titlebx{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5rem;
+    border-bottom: 1px solid rgb(141, 134, 134);
+    
+}
+.grd_desplusbtn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5rem;
+    margin-top: 3rem;
+}
+.grd_go_to_graph{
+    width: 15rem;
+    height: 2rem;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: rgb(15, 15, 57);
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.grd_papers{
+    margin-top: 3rem;
+}
+.grd_list{
+    display: flex;
+    flex-direction: column;
+    margin: 10px 40px;
+}
+.grd_list_elem{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0px;
+    font-size: 14px;
+    background-color: aliceblue;
+    padding: 0px 20px;
+}
+.grd_list_elem_btn_top{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    padding-right: 10px ;
+}
+
+.grd_list_elem_btn{
+    width: 5rem;
+    height: 2rem;
+    font-size: 14px;
+    border-radius: 5px;
+    background-color: rgb(15, 15, 57);
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+.grd_act{
+    padding: 10px;
+    margin: 50px 10px 10px 10px;
+    border: 1px transparent;
+    background-color: rgb(44, 44, 58);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}

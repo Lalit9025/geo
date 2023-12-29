@@ -1,0 +1,11 @@
+.bx-border{
+    border: 1px solid black;
+    border-radius: 0.5rem;
+    margin: 20px 0px;
+}
+.top_head{
+    border-bottom: 1px solid black;
+        padding-bottom: 20px;
+        text-align: left;
+        padding-left: 20px;
+}

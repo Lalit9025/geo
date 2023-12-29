@@ -1,0 +1,14 @@
+.sidebar_element{
+    display: flex;
+    color: wheat;
+    font-size: 16px;
+    padding: 0px 50px;
+    height: 3rem;
+    &:hover{
+        background-color: rgb(15, 15, 84);
+        border-radius: 5px;
+    }
+}
+.sidebar_element_name{
+    text-decoration: none;
+}

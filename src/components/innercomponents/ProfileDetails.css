@@ -1,0 +1,15 @@
+.profile_details{
+    display: flex;
+    padding: 1rem;
+
+    >img{
+        height: 10rem;
+        border-radius: 100%;
+    }
+}
+.details_bx{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 2rem;
+}

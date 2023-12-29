@@ -1,0 +1,11 @@
+.pricing{
+    display: flex;
+    align-items: center;
+    background-color: #FFF;;
+}
+.pricing_s{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 3rem;
+    padding: 5rem;
+}

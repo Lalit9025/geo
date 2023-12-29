@@ -1,0 +1,5 @@
+.Rside{
+    display: flex;
+    flex-direction: column;
+    padding: 5rem 7rem;
+}

@@ -1,0 +1,10 @@
+.saved_graphs{
+ display: flex;
+ flex-direction: column;
+}
+.graph_list{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
